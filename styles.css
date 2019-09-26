@@ -1,3 +1,5 @@
+@import '@cmsgov/design-system-support/src/settings/index';
+
 p {
 	top: 50%;
     position: absolute;
@@ -7,5 +9,5 @@ p {
 }
 
 p > span {
-	font-family: 'CMS', 'Droid Sans', Helvetica, Arial, sans-serif; text-align:center;
+	font-family: $font-serif, 'Droid Sans', Helvetica, Arial, sans-serif;
 }
