@@ -6,8 +6,8 @@ p {
     left: 50%;
     margin: 0;
     transform: translate(-50%, -50%);
+    font-family: $font-serif, 'Droid Sans', Helvetica, Arial, sans-serif;
 }
 
-p > span {
-	font-family: $font-serif, 'Droid Sans', Helvetica, Arial, sans-serif;
-}
+
+	
